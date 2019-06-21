@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="37562" started-at="2019-06-16T18:11:39Z" finished-at="2019-06-16T18:12:17Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="37562" started-at="2019-06-16T18:11:39Z" finished-at="2019-06-16T18:12:17Z">
+      <class name="NewTest_kaldisTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:NewTest_kaldisTest@735f7ae5]" name="beforeClass" is-config="true" duration-ms="23488" started-at="2019-06-16T18:11:39Z" finished-at="2019-06-16T18:12:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:NewTest_kaldisTest@735f7ae5]" name="f" duration-ms="2570" started-at="2019-06-16T18:12:03Z" data-provider="dp" finished-at="2019-06-16T18:12:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Abebe]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tesema]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[piit@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:NewTest_kaldisTest@735f7ae5]" name="f" duration-ms="2594" started-at="2019-06-16T18:12:05Z" data-provider="dp" finished-at="2019-06-16T18:12:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mamush]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Egla]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[kassa@yahoo.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:NewTest_kaldisTest@735f7ae5]" name="f" duration-ms="2705" started-at="2019-06-16T18:12:08Z" data-provider="dp" finished-at="2019-06-16T18:12:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Moham]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Brie]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[admas@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:NewTest_kaldisTest@735f7ae5]" name="f" duration-ms="2617" started-at="2019-06-16T18:12:11Z" data-provider="dp" finished-at="2019-06-16T18:12:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tiru]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[John]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[peoplentech@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:NewTest_kaldisTest@735f7ae5]" name="f" duration-ms="2731" started-at="2019-06-16T18:12:13Z" data-provider="dp" finished-at="2019-06-16T18:12:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Girma]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tuu]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[addis@yahoo.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:NewTest_kaldisTest@735f7ae5]" name="afterClass" is-config="true" duration-ms="808" started-at="2019-06-16T18:12:16Z" finished-at="2019-06-16T18:12:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- NewTest_kaldisTest -->
+      <class name="ToolsQA.MavenEclipseProject.AppTest">
+        <test-method status="PASS" signature="testing()[pri:0, instance:ToolsQA.MavenEclipseProject.AppTest@180bc464]" name="testing" duration-ms="1" started-at="2019-06-16T18:12:17Z" finished-at="2019-06-16T18:12:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing -->
+      </class> <!-- ToolsQA.MavenEclipseProject.AppTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
